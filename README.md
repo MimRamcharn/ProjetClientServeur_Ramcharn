@@ -32,4 +32,4 @@ Du coté du client,
 ```sh
 ./client
 ```
-Tout cela se fait dans le <bin>.
+Tout cela se fait dans le "bin".
