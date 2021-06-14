@@ -1,0 +1,4 @@
+/home/mim/Desktop/info_1/Server_Client_Ramcharn/bin/CMakeFiles/rebuild_cache.dir
+/home/mim/Desktop/info_1/Server_Client_Ramcharn/bin/CMakeFiles/edit_cache.dir
+/home/mim/Desktop/info_1/Server_Client_Ramcharn/bin/CMakeFiles/client.dir
+/home/mim/Desktop/info_1/Server_Client_Ramcharn/bin/CMakeFiles/server.dir
